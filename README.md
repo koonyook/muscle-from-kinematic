@@ -1,4 +1,4 @@
-This repository store supplementary materials for a paper, "Muscle Activation Analysis from Locomotive Kinematic Records and Reinforcement Learning".
+This repository store supplementary materials for a paper, "Muscle Activation Analysis from Gait Kinematics and Reinforcement Learning".
 
 ## Videos
 * [Normal walking](https://youtu.be/MpSMT-Yjdwo)
