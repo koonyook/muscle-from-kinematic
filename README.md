@@ -1,8 +1,11 @@
 This repository store supplementary materials for a paper, "Muscle Activation Analysis from Gait Kinematics and Reinforcement Learning".
 
 ## Videos
-* [Normal walking](https://youtu.be/MpSMT-Yjdwo)
 * [U-turning](https://youtu.be/ZZZOeoNIZNo)
+<img src="https://github.com/koonyook/muscle-from-kinematic/blob/master/output/video/U-turning.gif" width="400">
+
+* [Normal walking](https://youtu.be/MpSMT-Yjdwo)
+<img src="https://github.com/koonyook/muscle-from-kinematic/blob/master/output/video/Walking.gif" width="600">
 
 ## Dependency installation
 All the walkthrough here are tested on Ubuntu 18.04.
